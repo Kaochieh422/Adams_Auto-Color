@@ -5,6 +5,7 @@
 # assign the first two parts the same color, and follow the necessary logic for color assignment. 
 #　Specifically, if the name contains one underscore (e.g., OOO_XXX), set num_underscores = 1; 
 # if the name contains two underscores (e.g., OOO_OOO_XXX), set num_underscores = 2, and so on.
+# @TSENG KAO CHIEH
 
 import Adams
 
